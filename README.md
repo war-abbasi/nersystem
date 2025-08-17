@@ -35,14 +35,13 @@ NER-System/
 
 ````
 
----
-
 ## ⚙️ Setup Instructions
 1. **Clone the repo**
    ```bash
    git clone https://github.com/war-abbasi/nersystem.git
    cd nersystem
-````
+   ```
+
 
 2. **Install dependencies**
 
@@ -95,5 +94,3 @@ Extracted Entities:
 ## 👩‍💻 Author
 
 This project was created as part of my learning in **NLP and Information Extraction**.
-
-```
